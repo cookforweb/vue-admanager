@@ -1,11 +1,22 @@
 {
   "name": "vue-admanager",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Cookforweb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookforweb/vue-admanager.git"
+  },
+  "keywords": [
+    "vuejs",
+    "admanager",
+    "google",
+    "dfp",
+    "vue"
+  ]
 }
