@@ -1,6 +1,6 @@
 {
   "name": "vue-admanager",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "author": "Cookforweb",
   "license": "MIT",
+  "homepage": "https://www.cookforweb.com/a/vuejs-google-admanager/installation",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cookforweb/vue-admanager.git"
